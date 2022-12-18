@@ -1,0 +1,37 @@
+body{
+    background-image: url(Untitled.jpg);
+    
+}
+
+div, h1{
+    display: inline-block;
+    color: white;
+}
+div{
+    font-size: larger;
+    font-weight: 700;
+    padding: 5px;
+}
+h1{
+    padding: 1%;
+    font-size:  1cm;
+}
+#uutinen{
+    float: left;
+    padding: 50px;
+    margin-top: 30%;
+}
+uutinen.hover{
+    font-weight: 700;
+}
+input{
+    float: right;
+}
+button{
+    float: right;
+    color: black;
+    background-color: red;
+    padding: 10px;
+    font-weight: 700;
+    font-size: large;
+}
